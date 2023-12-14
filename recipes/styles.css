@@ -1,2 +1,17 @@
 /* styles.css */
 
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    background-color: #9e7b46;
+    font-size: large;
+    color: #ffffff;
+    text-align: center;
+}
+
+.text {
+    font-size: medium;
+    color: #ed9209;
+}
