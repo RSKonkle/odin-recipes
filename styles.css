@@ -6,12 +6,16 @@
 
 .header {
     background-color: #9e7b46;
-    font-size: large;
+    font-size: 36px;
     color: #ffffff;
     text-align: center;
 }
 
 .text {
-    font-size: medium;
+    font-size: 24px;
     color: #ed9209;
+}
+
+.bullet {
+    color:#9e7b46;
 }
