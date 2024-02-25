@@ -9,7 +9,7 @@ body {
 .header {
     background-color: blanchedalmond;
     font-size: 48px;
-    color: #ed9209;
+    color: #f07f3a;
     text-align: center;
     padding: 12px;
     margin: 24px;
@@ -29,10 +29,11 @@ body {
 
 .list-container {
     display: flex;
-    background-color: #9e7b46;
+    background-color: #f07f3a;
     border: 3px solid blanchedalmond;
     margin-left: 24px;
     margin-right: 24px;
+    padding: 8px;
     text-align: center;
     justify-content: space-evenly;
 }
@@ -42,7 +43,7 @@ body {
     padding: 16px;
     margin: 8px;
     height: 360px;
-    width: 360px;
+    width: 420px;
 }
 
 .pic {
